@@ -4,7 +4,7 @@
 
 一個經典的2D射擊遊戲
 <br>
-<br
+<br>
 使用Unity製作
 <br>
 <br>
@@ -12,10 +12,13 @@
 #### 玩法
 
 <br>
+
 方向鍵移動
 <br>
+
 空白鍵射擊
 <br>
+
 Don't kiss the enemy plane.
 <br>
 
