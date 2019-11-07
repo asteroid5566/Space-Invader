@@ -1,6 +1,5 @@
 ## Space Invader
 
-<br>
 ![image](https://github.com/asteroid5566/Space-Invader/blob/master/spacedemo.jpg)
 
 <br>
