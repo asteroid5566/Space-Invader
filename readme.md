@@ -1,6 +1,6 @@
 ## Space Invader
 
-![image](https://github.com/asteroid5566/Space-Invader/blob/master/spacedemo.jpg)
+![image](https://github.com/asteroid5566/Space-Invader/blob/master/demospace.png)
 
 <br>
 一個經典的2D射擊遊戲
